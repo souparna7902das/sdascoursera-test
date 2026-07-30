@@ -1,0 +1,33 @@
+/* Style the entire page body */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f9;
+  color: #333333;
+  margin: 40px;
+}
+
+/* Style main headings */
+h1 {
+  color: #00539f;
+}
+
+/* Style paragraphs */
+p {
+  font-size: 10px;
+  line-height: 1.6;
+}
+
+/* Style a simple button class */
+.my-button {
+  background-color: yellowgreen;
+  color: greenyellow;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+/* Change button color when hovering */
+.my-button:hover {
+  background-color: #058457;
+}
